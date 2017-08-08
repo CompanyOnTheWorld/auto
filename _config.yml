@@ -1,0 +1,8 @@
+title: Auto
+description: A collection of source code generators for Java.
+google_analytics: UA-43772875-2
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
